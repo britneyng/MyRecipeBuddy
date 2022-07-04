@@ -1,25 +1,47 @@
 {"recipes": [{
-    "name": "Dong fart",
+    "name": "French Toast",
     "ingredients": {"ingredient list": [
         {
-            "ingredient amount": 1,
-            "ingredient unit": "quart",
-            "ingredient name": "pee"
+            "ingredient amount": 2,
+            "ingredient unit": "slices",
+            "ingredient name": "Toast"
         },
         {
             "ingredient amount": 2,
-            "ingredient unit": "doink",
-            "ingredient name": "poo"
+            "ingredient unit": "whole",
+            "ingredient name": "Eggs"
+        },
+        {
+            "ingredient amount": 1,
+            "ingredient unit": "tbsp",
+            "ingredient name": "Sugar"
+        },
+        {
+            "ingredient amount": 1,
+            "ingredient unit": "tsp",
+            "ingredient name": "Vanilla Extract"
         }
     ]},
     "steps": {"step list": [
         {
-            "instructions": "mix",
+            "instructions": "Crack the eggs into a clean bowl and beat.",
             "step number": 1
         },
         {
-            "instructions": "done",
+            "instructions": "Dip the toast into the eggs.",
             "step number": 2
+        },
+        {
+            "instructions": "Add vanilla.",
+            "step number": 3
+        },
+        {
+            "instructions": "Fry the toast.",
+            "step number": 4
+        },
+        {
+            "instructions": "French toast!",
+            "step number": 5
         }
     ]}
 }]}
