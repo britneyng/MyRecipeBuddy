@@ -1,12 +1,25 @@
 {"recipes": [{
-    "name": "Egg",
-    "ingredients": {"ingredient list": [{
-        "ingredient amount": 1,
-        "ingredient unit": "whole",
-        "ingredient name": "Egg"
-    }]},
-    "steps": {"step list": [{
-        "instructions": "Add the egg",
-        "step number": 1
-    }]}
+    "name": "Dong fart",
+    "ingredients": {"ingredient list": [
+        {
+            "ingredient amount": 1,
+            "ingredient unit": "quart",
+            "ingredient name": "pee"
+        },
+        {
+            "ingredient amount": 2,
+            "ingredient unit": "doink",
+            "ingredient name": "poo"
+        }
+    ]},
+    "steps": {"step list": [
+        {
+            "instructions": "mix",
+            "step number": 1
+        },
+        {
+            "instructions": "done",
+            "step number": 2
+        }
+    ]}
 }]}
