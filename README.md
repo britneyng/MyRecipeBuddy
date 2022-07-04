@@ -19,8 +19,8 @@ suggest recipes with ingredients on hand.
 
 I chose to create a Recipe Manager because cooking is a hobby of mine that I enjoy.
 However, I often ran into the problem of not knowing what to cook
-or what recipes I could make with ingredients I had on hand. The recipe manager
-is helpful because it stores all possible recipes in a convenient list for the user.
+or what recipes I could make with ingredients I had on hand. This recipe manager stores all 
+possible recipes in a convenient list for the user.
 
 ## User Stories
 
